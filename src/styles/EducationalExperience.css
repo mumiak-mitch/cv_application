@@ -1,0 +1,33 @@
+/* EducationalExperience.css */
+.educational-experience {
+    margin-bottom: 20px;
+}
+
+.educational-experience form {
+    display: flex;
+    flex-direction: column;
+}
+
+.educational-experience input[type="text"] {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.educational-experience button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.educational-experience button:hover {
+    background-color: #0056b3;
+}
+
+.educational-experience p {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
